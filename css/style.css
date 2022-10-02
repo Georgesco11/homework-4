@@ -1,0 +1,49 @@
+.date{
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-color: blue;
+}
+.date-paragraph{
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+.text-block{
+    width: 929px;
+    display: inline-block;
+    vertical-align: top;
+}
+.img-block{
+    width: 270px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 27px;
+}
+.paragraph1{
+    margin-bottom: 30px;
+}
+
+/* contact page */
+.contact{
+    background-color:#E6E6E6;
+}
+.container{
+    width: 1177px;
+    margin: 0 auto;
+}
+.left-block{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.right-block{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 60px;
+}
+.map{
+    width: 900px;
+    height: 500px;
+}
